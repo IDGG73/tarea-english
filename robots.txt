@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://idgg73.github.io/tarea-english/sitemap.xml
