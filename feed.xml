@@ -3,12 +3,36 @@
     <title>Tarea</title>
     <link href="https://idgg73.github.io/tarea-english/feed.xml" rel="self" />
     <link href="https://idgg73.github.io/tarea-english" />
-    <updated>2021-11-09T14:45:15-06:00</updated>
+    <updated>2021-11-09T15:06:36-06:00</updated>
     <author>
         <name>IDGG73</name>
     </author>
     <id>https://idgg73.github.io/tarea-english</id>
 
+    <entry>
+        <title>ROUND UP 3</title>
+        <author>
+            <name>IDGG73</name>
+        </author>
+        <link href="https://idgg73.github.io/tarea-english/round-up-3.html"/>
+        <id>https://idgg73.github.io/tarea-english/round-up-3.html</id>
+
+        <updated>2021-11-09T15:06:36-06:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://idgg73.github.io/tarea-english/media/posts/4/ru.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://idgg73.github.io/tarea-english/media/posts/4/responsive/ru-xs.jpg 300w ,https://idgg73.github.io/tarea-english/media/posts/4/responsive/ru-sm.jpg 480w ,https://idgg73.github.io/tarea-english/media/posts/4/responsive/ru-md.jpg 768w ,https://idgg73.github.io/tarea-english/media/posts/4/responsive/ru-lg.jpg 1024w ,https://idgg73.github.io/tarea-english/media/posts/4/responsive/ru-xl.jpg 1360w ,https://idgg73.github.io/tarea-english/media/posts/4/responsive/ru-2xl.jpg 1600w"  height="1622" width="662" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Act. 3.4 - There Was / There Were</title>
         <author>
